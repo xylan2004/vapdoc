@@ -2,7 +2,7 @@ name: Your New Jekyll Site
 markdown: redcarpet
 pygments: true
 
-baseurl: /
+baseurl: /vapdoc/
 encoding: utf-8
 
 paginate: 5
