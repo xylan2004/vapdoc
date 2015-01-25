@@ -8,3 +8,5 @@ encoding: utf-8
 paginate: 5
 paginate_path: "page:num"
 
+url: "http://xylan2004.github.io/vapdoc"
+
